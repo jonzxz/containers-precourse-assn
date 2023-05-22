@@ -20,5 +20,5 @@
 				- There is some really nasty hack going on because Heroku requires the Procfile and requirements.txt to be in the root directory.
 					- For the Heroku deployment that is done using Heroku CLI, a `git subtree push` with the `--prefix workshop01` was done so that Heroku interprets this folder as the root directory.
 
-## Working example
-![working example](./images/working_example.jpg)
+## Proof of Work
+![Proof of work](./images/proof-of-work.jpg)
