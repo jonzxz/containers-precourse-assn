@@ -1,1 +1,1 @@
-web: sh -c 'cd workshop01 && gunicorn app:app'
+web: gunicorn --pythonpath workshop01/ app:app
